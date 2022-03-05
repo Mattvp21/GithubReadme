@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **matthewvanpelt92@gmail.com**
 
-- ⚡ Fun fact **I used to play guitar for a metal band and sang with Afroman!**
+- ⚡ Fun fact **I used to play guitar for a metal band and opened a show for Afroman!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
