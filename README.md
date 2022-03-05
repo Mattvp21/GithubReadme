@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **matthewvanpelt92@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/mvp/Downloads/Matthew%20Van%20Pelts%20CV%20.pdf](file:///Users/mvp/Downloads/Matthew%20Van%20Pelts%20CV%20.pdf)
-
 - ⚡ Fun fact **I used to play guitar for a metal band and sang with Afroman!**
 
 <h3 align="left">Connect with me:</h3>
