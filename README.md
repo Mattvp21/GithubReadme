@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattvp21&label=Profile%20views&color=0e75b6&style=flat" alt="mattvp21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattvp21" alt="mattvp21" /></a> </p>
 
 - 🔭 I’m currently working on [Brew Directory](https://github.com/Mattvp21/brew-directory.git)
 
