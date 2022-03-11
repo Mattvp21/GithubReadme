@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattvp21&label=Profile%20views&color=0e75b6&style=flat" alt="mattvp21" /> </p>
 
 
-- 🔭 I’m currently working on [Brew Directory](https://github.com/Mattvp21/brew-directory.git)
+- 🔭 I’m currently working on SEO Fundamentals
 
 - 🌱 I’m currently learning **Full Stack Development and putting it all together**
 
