@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [mvpportfolio.netlify.app](mvpportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at https://mvpportfolio.netlify.app/
 
 - 💬 Ask me about **React, Javascript ES6, Bootstrap**
 
