@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matthew Van Pelt</h1>
-<h3 align="center">Problem Solving Web Developer from Connecticut, USA</h3>
+<h3 align="center">Full Stack Web Developer from Connecticut, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattvp21&label=Profile%20views&color=0e75b6&style=flat" alt="mattvp21" /> </p>
 
 
-- 🔭 I’m currently working on SEO Fundamentals
+- 🔭 I’m currently working on a Food Blog and social media app
 
-- 🌱 I’m currently learning **Full Stack Development and putting it all together**
+- 🌱 I’m currently learning more about node.js
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
